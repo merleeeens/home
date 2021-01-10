@@ -36,10 +36,6 @@
   margin: 0;
 }
 
-.u-section-1 .u-text-2 {
-  margin: 20px -3px 0 3px;
-}
-
 .u-section-1 .u-btn-1 {
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -47,7 +43,7 @@
   border-style: none none solid;
   text-transform: uppercase;
   font-weight: 600;
-  margin: 36px 0 0 -7px;
+  margin: 20px 0 0 -7px;
   padding: 5px 0;
 }
 
@@ -56,7 +52,6 @@
   grid-template-columns: 100%;
   grid-gap: 6px 6px;
   width: 291px;
-  height: auto;
   margin: -501px 22px 60px auto;
 }
 
@@ -133,15 +128,14 @@
     min-height: 584px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
   .u-section-1 .u-btn-1 {
     width: 99px;
     height: 33px;
     margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    height: auto;
   }
 }
 
